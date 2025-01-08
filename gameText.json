@@ -1,92 +1,42 @@
 [
-  ["Story", {
-    "Text1": "Oh you finally arrived, i have been waiting weeks for you, ok i dont wanna spend to much time talking so lets just get straight to the point",
-    "Text2": "Now come on let me dress you up...",
-    "Text3": "We all know that dogs have to wear collars, but i think this collar is even better for you, put it, QUICKLY",
-    "Text3_Command": "Put on the nosed collar",
-    "Text4": "Thats much better, now go ahead and wear these panties so you can hide you dick, its so pahetic, i cant let anyone see that my dog's dick is that small",
-    "Text4_Command": "Wear the panties",
-    "Text5": "ok now give me a quick bark",
-    "Text5_command": "Bark",
-    "Text6": "Something seems wrong, oh I got it, it's your mouth, it's too closed, go ahead and put on this mouth opener",
-    "Text6_command": "Put on this mouth openes",
-    "Text7": "That's MUCH better",
-    "Text8": "Now lets go ahead and start with your training…",
-    "Text9": "Go ahead and crawl around the room like the doggy you are, and bark while your at it",
-    "Text9_command": "Crawl around the room like a dog and bark",
-    "Text10": "Good boy, now how about we get your face nice and warmed up…",
-    "Text10_command": "Slap yourself in the face a couple of times",
-    "Text11": "Let's go ahead and warm up your asshole, let me stretch it a bit for you",
-    "Text11_command": "Insert 2 fingers from each hand into your ass and start opening it",
-    "Length": "text"
-  }],
-  ["Jerk_off", {
-    "Text1": "Channel your inner energy...",
-    "Text2": "Feel the power building up...",
-    "Text3": "Release in controlled bursts...",
-    "Text4": "Let the rhythm guide your movements...",
-    "Text5": "Embrace the intensity...",
-    "Length": "time",
-    "Time": 3
-  }],
-  ["Anal", {
-    "Text1": "Flow like water...",
-    "Text2": "Let your movements be smooth...",
-    "Text3": "Find your inner peace...",
-    "Text4": "Move with grace and precision...",
-    "Text5": "Be one with the rhythm...",
-    "Length": "time",
-    "Time": 3
-  }],
-  ["Oral", {
-    "Text1": "Balance light and dark...",
-    "Text2": "Two sides of the same coin...",
-    "Text3": "Find harmony in duality...",
-    "Text4": "Blend the opposing forces...",
-    "Text5": "Create perfect symmetry...",
-    "Length": "time",
-    "Time": 3
-  }],
-  ["Spank", {
-    "Text1": "Extend your reach...",
-    "Text2": "Bridge the gaps...",
-    "Text3": "Connect the dots...",
-    "Text4": "Stretch your limitations...",
-    "Text5": "Expand your horizons...",
-    "Length": "time",
-    "Time": 3
-  }],
-  ["Ball_torture", {
-    "Text1": "Time for some extra punishment...",
-    "Text2": "Feel the weight of your decisions...",
-    "Text3": "Accept your fate...",
-    "Length": "time",
-    "Time": 2
-  }],
-  ["Cock_heading", {
-    "Text1": "Sensitivity training begins...",
-    "Text2": "Every touch magnified...",
-    "Text3": "Push your limits...",
-    "Length": "time",
-    "Time": 2
-  }],
-  ["3minutes", {
-    "Text1": "The final stretch...",
-    "Text2": "Keep going...",
-    "Text3": "Almost there...",
-    "Length": "time",
-    "Time": 3
-  }],
-  ["Orgasm", {
-    "Text1": "Release everything...",
-    "Text2": "Let it all go...",
-    "Text3": "The moment has come...",
-    "Length": "text"
-  }],
-  ["Ruin", {
-    "Text1": "Stop right there...",
-    "Text2": "Feel it slip away...",
-    "Text3": "Denied at the last moment...",
-    "Length": "text"
-  }]
+    {
+        "Story": 
+        { 
+        "Story1":
+        {
+            "Text1": "Test"
+        },
+        "Story2":
+        {
+            "Text1": "Test"
+        }
+    }
+    },
+    {
+        "Jerky":
+        {
+            "Text1": "Test"
+        }
+    },
+    {
+        "Ana":
+        {
+            "Text1": "Test"
+        }
+    },
+    {
+        "Oreo":
+        {
+            "Text1": "Test"
+        }
+    },
+    {
+        "Span":
+        {
+            "Text1": "Test"
+        }
+    },
+    {
+        "Order": "Story1;Jerky;Oreo;Ana;Jerky;Ana;Story2"
+    }
 ]
