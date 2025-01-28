@@ -2,12 +2,15 @@
     {
         "Sections":
         {
-            "Section1":
+            "Section1_Action": 
             {
-                "image": "",
-                "Text1": "test 1",
-                "Text1_Command": "test command 1",
-                "Text1_Happening": "I AM MUSIC"
+                "image": "https://github.com/LLRIX-ofc/Test-Files/blob/main/Mnhtn.png?raw=true",
+                "Type": "Jerky",
+                "Duration": 10,
+                "Text": {
+                    "Text1": "test jerky",
+                    "Text1_Happening": "I AM MUSIC"
+                }
             },
             "Section2":
             {
