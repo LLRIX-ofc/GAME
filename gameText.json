@@ -98,6 +98,33 @@
             "Section13_Action": 
             {
                 "image": "",
+                "Type": "BT",
+                "Duration": 10,
+                "Text": {
+                    "Text1": "test BT"
+                }
+            },
+            "Section14_Action": 
+            {
+                "image": "",
+                "Type": "CT",
+                "Duration": 10,
+                "Text": {
+                    "Text1": "test CT"
+                }
+            },
+            "Section15_Action": 
+            {
+                "image": "",
+                "Type": "CBT",
+                "Duration": 10,
+                "Text": {
+                    "Text1": "test CBT"
+                }
+            },
+            "Section16_Action": 
+            {
+                "image": "",
                 "Type": "End",
                 "Version": "Org",
                 "Duration": 10,
@@ -105,7 +132,7 @@
                     "Text1": "test Org"
                 }
             },
-            "Section14_Action": 
+            "Section17_Action": 
             {
                 "image": "",
                 "Type": "After",
