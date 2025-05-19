@@ -1,147 +1,42 @@
 [
     {
-        "Sections":
+        "Story": 
+        { 
+        "Story1":
         {
-            "Section1_Action": 
-            {
-                "image": "https://github.com/LLRIX-ofc/Test-Files/blob/main/Mnhtn.png?raw=true",
-                "Type": "Jerky",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test jerky",
-                    "Text1_Happening": "I AM MUSIC"
-                }
-            },
-            "Section2":
-            {
-                "image": "",
-                "Text1": "test 2",
-                "Text1_Command": "test command 2"
-            },
-            "Section3":
-            {
-                "image": "",
-                "Text1": "test 3",
-                "Text1_Command": "test command 3",
-                "Text1_Happening": "I AM MUSIC"
-            },
-            "Section4":
-            {
-                "image": "",
-                "Text1": "test 4",
-                "Text1_Command": "test command 4"
-            },
-            "Section5":
-            {
-                "image": "",
-                "Text1": "test 5",
-                "Text1_Command": "test command 5",
-                "Text1_Happening": "I AM MUSIC"
-            },
-            "Section6":
-            {
-                "image": "",
-                "Text1": "test 6",
-                "Text1_Command": "test command 6"
-            },
-            "Section7":
-            {
-                "image": "",
-                "Text1": "test 7",
-                "Text1_Command": "test command 7",
-                "Text1_Happening": "I AM MUSIC"
-            },
-            "Section8":
-            {
-                "image": "",
-                "Text1": "test 8",
-                "Text1_Command": "test command 8"
-            },
-            "Section9_Action": 
-            {
-                "image": "",
-                "Type": "Jerky",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test jerky",
-                    "Text1_Happening": "I AM MUSIC"
-                }
-            },
-            "Section10_Action": 
-            {
-                "image": "",
-                "Type": "Ana",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test ana"
-                }
-            },
-            "Section11_Action": 
-            {
-                "image": "",
-                "Type": "Oreo",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test oreo",
-                    "Text1_Happening": "I AM MUSIC"
-                }
-            },
-            "Section12_Action": 
-            {
-                "image": "",
-                "Type": "Span",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test span"
-                }
-            },
-            "Section13_Action": 
-            {
-                "image": "",
-                "Type": "BT",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test BT"
-                }
-            },
-            "Section14_Action": 
-            {
-                "image": "",
-                "Type": "CT",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test CT"
-                }
-            },
-            "Section15_Action": 
-            {
-                "image": "",
-                "Type": "CBT",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test CBT"
-                }
-            },
-            "Section16_Action": 
-            {
-                "image": "",
-                "Type": "End",
-                "Version": "Org",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test Org"
-                }
-            },
-            "Section17_Action": 
-            {
-                "image": "",
-                "Type": "After",
-                "Version": "Ball",
-                "Duration": 10,
-                "Text": {
-                    "Text1": "test ball"
-                }
-            }
+            "Text1": "Teststory1"
+        },
+        "Story2":
+        {
+            "Text1": "Teststory2"
         }
+    }
+    },
+    {
+        "Jerky":
+        {
+            "Text1": "Testjeerky"
+        }
+    },
+    {
+        "Ana":
+        {
+            "Text1": "Testana"
+        }
+    },
+    {
+        "Oreo":
+        {
+            "Text1": "Testor"
+        }
+    },
+    {
+        "Span":
+        {
+            "Text1": "Tespan"
+        }
+    },
+    {
+        "Order": "Story1;Jerky;Oreo;Ana;Jerky;Ana;Story2"
     }
 ]
